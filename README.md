@@ -3,7 +3,7 @@
 ## GRUPO
 
 1. Hugo Souza Duca [hugo.duca@ppgi.ufrj.br]; e
-2. Massao Oliveira Iwanaga Monteiro Carvalho [massaoiwanaga@ufrj.br].
+2. Massao Oliveira Iwanaga [massaoiwanaga@ufrj.br].
 
 ## PROFESSOR
 
