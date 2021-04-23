@@ -1,4 +1,4 @@
-# Fundamentos de Modelagem - Profa. Maria Luiza (MAI701)
+# Disciplina - Fundamentos de Modelagem (MAI701)
 
 ## GRUPO
 
